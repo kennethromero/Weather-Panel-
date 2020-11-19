@@ -25,9 +25,10 @@ namespace Weather_Panel
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void BtnGetWeather_Click(object sender, RoutedEventArgs e)
         {
 
+            lblSummary.Content = DateTime.Now.ToString("hh:mm tt");
         }
     }
 }

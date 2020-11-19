@@ -1,0 +1,15 @@
+C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\bin\Debug\Weather Panel.exe.config
+C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\bin\Debug\Weather Panel.exe
+C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\bin\Debug\Weather Panel.pdb
+C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\obj\Debug\Weather Panel.csprojAssemblyReference.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\obj\Debug\MainWindow.g.cs
+C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\obj\Debug\App.g.cs
+C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\obj\Debug\Weather Panel_MarkupCompile.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\obj\Debug\Weather Panel_MarkupCompile.lref
+C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\obj\Debug\MainWindow.baml
+C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\obj\Debug\Weather Panel.g.resources
+C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\obj\Debug\Weather_Panel.Properties.Resources.resources
+C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\obj\Debug\Weather Panel.csproj.GenerateResource.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\obj\Debug\Weather Panel.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\obj\Debug\Weather Panel.exe
+C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\obj\Debug\Weather Panel.pdb
