@@ -1,4 +1,6 @@
-﻿using System;
+﻿
+using RestSharp;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -27,6 +29,7 @@ namespace Weather_Panel
 
         private void BtnGetWeather_Click(object sender, RoutedEventArgs e)
         {
+            var client = new RestClient("https://api.darksky.net/forecast/64ee9d4e589bb2cb3788596fd477b0f7/14.8781,120.4546");
 
             lblSummary.Content = DateTime.Now.ToString("hh:mm tt");
         }
