@@ -1,4 +1,4 @@
-﻿
+﻿using Newtonsoft.Json;
 using RestSharp;
 using System;
 using System.Collections.Generic;
@@ -36,6 +36,8 @@ namespace Weather_Panel
             IRestResponse response = client.Execute(request);
 
             var content = response.Content;
+
+            var area = JsonConvert.DeserializeObject<WeatherArea>(content);
 
             lblSummary.Content = DateTime.Now.ToString("hh:mm tt");
         }
