@@ -33,6 +33,8 @@ namespace Weather_Panel
 
             var request = new RestRequest("", Method.GET);
 
+            IRestResponse response = client.Execute(request);
+
             lblSummary.Content = DateTime.Now.ToString("hh:mm tt");
         }
     }
