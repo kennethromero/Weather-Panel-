@@ -13,3 +13,8 @@ C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\obj\De
 C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\obj\Debug\Weather Panel.csproj.CoreCompileInputs.cache
 C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\obj\Debug\Weather Panel.exe
 C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\obj\Debug\Weather Panel.pdb
+C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\bin\Debug\RestSharp.dll
+C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\bin\Debug\RestSharp.xml
+C:\Users\Kenneth\Desktop\ict project\projects\Weather Panel\Weather Panel\obj\Debug\Weather Panel.csproj.CopyComplete
