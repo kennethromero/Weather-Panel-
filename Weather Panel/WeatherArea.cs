@@ -18,6 +18,16 @@ namespace Weather_Panel
     {
         public string Summary { get; set; }
 
-        public string Icon { get; set; }
+        public string icon { get; set; }
+
+        public string pressure { get; set; }
+
+        public string humidity { get; set; }
+
+        public string temperature { get; set; }
+
+        public string windBearing { get; set; }
+
+        public string windSpeed { get; set; }
     }
 }
