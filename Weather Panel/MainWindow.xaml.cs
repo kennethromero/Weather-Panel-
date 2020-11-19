@@ -24,5 +24,10 @@ namespace Weather_Panel
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
