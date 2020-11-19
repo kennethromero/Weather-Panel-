@@ -12,5 +12,12 @@ namespace Weather_Panel
 
         public string Longitude { get; set; }
 
+        public CurrentWeather Currently { get; set; }
+    }
+    public class CurrentWeather
+    {
+        public string Summary { get; set; }
+
+        public string Icon { get; set; }
     }
 }
